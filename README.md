@@ -86,7 +86,7 @@ This repository provides a script to automate the submission of faculty feedback
 
 ## Disclaimer
 
-- **Manual Execution for Each Faculty**: The script requires manual execution for each faculty member.
+- **Manual Execution for Each Faculty**: The script requires manual execution for each faculty member as your input might potentially harm their job so type in your response manually!
 - **Browser Interaction Required**: Ensure the browser is active with the correct feedback form before running the script.
 - **Exclusivity**: Designed solely for use on the Amizone.net platform.
 
